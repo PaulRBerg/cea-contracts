@@ -1,4 +1,4 @@
-# Create Eth App Contracts
+# Create Eth App Contracts [![Built with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 
 The [CeaErc20.sol](/contracts/CeaErc20.sol) is the base smart contract used in the default template of [Create Eth App](https://github.com/PaulRBerg/create-eth-app).
 
